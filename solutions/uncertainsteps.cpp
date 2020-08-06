@@ -26,3 +26,4 @@ int main(){
     cout<<res;
 return 0;
 }
+#try changing it into a loop
